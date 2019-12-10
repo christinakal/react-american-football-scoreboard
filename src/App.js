@@ -2,7 +2,6 @@
 import React, {useState} from "react";
 import "./App.css";
 import Buttons from './components/Buttons';
-
 import BottomRow from "./BottomRow";
 
 function App() {
